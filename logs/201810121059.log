@@ -1,0 +1,12 @@
+2018-10-12 10:59:46,468 - logger - INFO - You had select Chrome browser.
+2018-10-12 10:59:46,468 - logger - INFO - You had select Chrome browser.
+2018-10-12 10:59:46,469 - logger - INFO - The test server url is:https://www.baidu.com
+2018-10-12 10:59:46,469 - logger - INFO - The test server url is:https://www.baidu.com
+2018-10-12 10:59:50,696 - logger - INFO - Starting Chrome browser.
+2018-10-12 10:59:50,696 - logger - INFO - Starting Chrome browser.
+2018-10-12 10:59:52,305 - logger - INFO - Open url:https://www.baidu.com
+2018-10-12 10:59:52,305 - logger - INFO - Open url:https://www.baidu.com
+2018-10-12 10:59:53,526 - logger - INFO - Maximize the current window.
+2018-10-12 10:59:53,526 - logger - INFO - Maximize the current window.
+2018-10-12 10:59:53,527 - logger - INFO - Set implicitly wait 10 seconds.
+2018-10-12 10:59:53,527 - logger - INFO - Set implicitly wait 10 seconds.
